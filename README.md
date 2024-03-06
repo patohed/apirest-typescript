@@ -13,6 +13,6 @@ Driven by a passion for web development, I've crafted an exciting project using 
 <br>
 <br>
 
-🚀 Thank you for your interest in my projects! 🚀<br>
-🚀 I appreciate your support. 🚀<br>
+ Thank you for your interest in my projects! <br>
+ I appreciate your support. <br>
 🚀Stay tuned for more content as I continue to progress in the world of web development. 🚀
