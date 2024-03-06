@@ -7,3 +7,12 @@ Implementé medidas de seguridad sólidas con JWT y bcrypt, y aseguré la autent
 
 
 Driven by a passion for web development, I've crafted an exciting project using Nest.js. This high-quality backend application integrates Socket.io for real-time communication, coupled with MongoDB for efficient data management. <br>I implemented robust security measures with JWT and bcrypt, ensuring proper authentication with authorized token verification. Additionally, I employed middlewares and guards to optimize security and streamline data flow.<br> This project also showcases the creation of routes, schemas, and the implementation of interfaces for an organized and maintainable structure
+
+
+<br>
+<br>
+<br>
+
+🚀 Thank you for your interest in my projects! 🚀
+🚀 I appreciate your support. 🚀
+🚀Stay tuned for more content as I continue to progress in the world of web development. 🚀
